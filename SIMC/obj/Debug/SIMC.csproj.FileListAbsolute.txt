@@ -1,0 +1,636 @@
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\obj\Debug\SIMC.csprojAssemblyReference.cache
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\SIMC.dll.config
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\SIMC.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\SIMC.pdb
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\csc.exe
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\csc.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\csc.rsp
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\csi.exe
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\csi.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\csi.rsp
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.AppContext.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Collections.Immutable.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Console.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.IO.Compression.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.IO.FileSystem.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.IO.Pipes.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Reflection.Metadata.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Security.AccessControl.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Security.Claims.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.ValueTuple.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Xml.XPath.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\vbc.exe
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\vbc.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\vbc.rsp
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\VBCSCompiler.exe
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\roslyn\VBCSCompiler.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\obj\Debug\SIMC.csproj.CoreCompileInputs.cache
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\obj\Debug\SIMC.csproj.CopyComplete
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\obj\Debug\SIMC.dll
+D:\TINGKAT 2\SMT 3\PRG4\PROJEKKKK\SIMC\SIMC\obj\Debug\SIMC.pdb
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\SIMC.dll.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\SIMC.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\SIMC.pdb
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\csc.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\csc.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\csc.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\csi.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\csi.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\csi.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.AppContext.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Collections.Immutable.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Console.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.IO.Compression.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Reflection.Metadata.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Security.AccessControl.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Security.Claims.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.ValueTuple.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\vbc.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\vbc.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\vbc.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.AssemblyReference.cache
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CoreCompileInputs.cache
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CopyComplete
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\obj\Debug\SIMC.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\SIMC FIX\SIMC\obj\Debug\SIMC.pdb
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\SIMC.dll.config
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\SIMC.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\SIMC.pdb
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\csc.rsp
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\csi.exe
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\csi.rsp
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\obj\Debug\SIMC.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CopyComplete
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\obj\Debug\SIMC.dll
+C:\Users\ASUS\Downloads\SIMC FIX (1)\SIMC FIX\SIMC\obj\Debug\SIMC.pdb
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\SIMC.dll.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\SIMC.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\SIMC.pdb
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csc.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csc.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csc.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csi.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csi.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csi.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.AppContext.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Collections.Immutable.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Console.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.Compression.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Reflection.Metadata.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.AccessControl.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Claims.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.ValueTuple.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\vbc.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\vbc.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\vbc.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CoreCompileInputs.cache
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CopyComplete
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.pdb
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.AssemblyReference.cache
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.csprojAssemblyReference.cache
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\obj\Debug\RdlCompile.cache
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\obj\Debug\RdlCompile.compiled
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CoreCompileInputs.cache
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.pdb
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\SIMC.dll.config
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\SIMC.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\SIMC.pdb
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csc.exe
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csc.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csc.rsp
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csi.exe
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csi.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\csi.rsp
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.AppContext.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Collections.Immutable.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Console.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.Compression.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Reflection.Metadata.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.AccessControl.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Claims.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.ValueTuple.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\vbc.exe
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\vbc.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\vbc.rsp
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe.config
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CopyComplete
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\SqlServerTypes\x64\msvcr120.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\SqlServerTypes\x86\msvcr120.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.Common.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.Design.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WinForms.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.SqlServer.Types.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\EnvDTE.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\stdole.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.MSXML.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\TINGKAT 2\SMT 3\PRG4\SIMC FIX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x64\msvcr120.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x86\msvcr120.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\SIMC.dll.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\SIMC.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\SIMC.pdb
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csc.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csc.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csc.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csi.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csi.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csi.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.AppContext.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Collections.Immutable.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Console.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.Compression.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Reflection.Metadata.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.AccessControl.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Claims.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.ValueTuple.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\vbc.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\vbc.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\vbc.rsp
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe.config
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.Common.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.Design.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WebDesign.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WebForms.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WinForms.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.SqlServer.Types.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\EnvDTE.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\stdole.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.MSXML.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.AssemblyReference.cache
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CoreCompileInputs.cache
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CopyComplete
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.dll
+F:\ADIT\1 POLTEK ASTRA\TUGAS BESAR ATAU PROJECT SEMESTER 3\PEMROGRAMAN 4\1 TERBARU\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.pdb
+D:\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.csprojAssemblyReference.cache
+D:\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\RdlCompile.cache
+D:\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\RdlCompile.compiled
+D:\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.pdb
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.Common.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.Design.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WebForms.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.ReportViewer.WinForms.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.SqlServer.Types.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\EnvDTE.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\stdole.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.MSXML.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CoreCompileInputs.cache
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x64\msvcr120.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x86\msvcr120.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\SIMC.dll.config
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\SIMC.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\SIMC.pdb
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csc.exe
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csc.exe.config
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csc.rsp
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csi.exe
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csi.exe.config
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\csi.rsp
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.AppContext.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Collections.Immutable.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Console.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.Compression.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.IO.Pipes.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Reflection.Metadata.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.AccessControl.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Claims.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.ValueTuple.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\vbc.exe
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\vbc.exe.config
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\vbc.rsp
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe
+D:\FIXXXXXXX\SIMC FIX\SIMC\bin\roslyn\VBCSCompiler.exe.config
+D:\FIXXXXXXX\SIMC FIX\SIMC\obj\Debug\SIMC.csproj.CopyComplete

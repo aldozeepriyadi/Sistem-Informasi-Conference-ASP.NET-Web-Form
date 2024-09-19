@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Abstrak" targetNamespace="http://tempuri.org/Abstrak.xsd" xmlns:mstns="http://tempuri.org/Abstrak.xsd" xmlns="http://tempuri.org/Abstrak.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="SIMC1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SIMC1ConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.SIMC1ConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="SIMCConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SIMCConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.SIMCConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Abstrak" GeneratorDataComponentClassName="Abstrak1" Name="Abstrak" UserDataComponentName="Abstrak">
+            <MainSource>
+              <DbSource ConnectionRef="SIMCConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT e.nameEvent, a.title, u.namaUser
+FROM     abstrak AS a INNER JOIN
+                  detailabstrak AS d ON a.IdAbstrak = d.IdAbstrak INNER JOIN
+                  fullpaper AS f ON a.IdAbstrak = f.IdAbstract INNER JOIN
+                  event AS e ON a.IdEvent = e.IdEvent INNER JOIN
+                  users AS u ON a.reviewedby = u.IdUser</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nameEvent" DataSetColumn="nameEvent" />
+              <Mapping SourceColumn="namaUser" DataSetColumn="namaUser" />
+              <Mapping SourceColumn="title" DataSetColumn="title" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Fullpaper" GeneratorDataComponentClassName="Fullpaper" Name="Fullpaper" UserDataComponentName="Fullpaper">
+            <MainSource>
+              <DbSource ConnectionRef="SIMCConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT e.nameEvent, a.title, u.namaUser, a.kodePaper
+FROM     abstrak AS a INNER JOIN
+                  detailabstrak AS d ON a.IdAbstrak = d.IdAbstrak INNER JOIN
+                  fullpaper AS f ON a.IdAbstrak = f.IdAbstract INNER JOIN
+                  event AS e ON a.IdEvent = e.IdEvent INNER JOIN
+                  users AS u ON a.reviewedby = u.IdUser</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nameEvent" DataSetColumn="nameEvent" />
+              <Mapping SourceColumn="namaUser" DataSetColumn="namaUser" />
+              <Mapping SourceColumn="kodePaper" DataSetColumn="kodePaper" />
+              <Mapping SourceColumn="title" DataSetColumn="title" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="paymentTableAdapter" GeneratorDataComponentClassName="paymentTableAdapter" Name="payment" UserDataComponentName="paymentTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SIMCConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT p.nameSender, p.accountNumber, p.dateConfirmation, p.TotalPayment, a.title
+FROM     payment AS p INNER JOIN
+                  abstrak AS a ON a.IdAbstrak = p.IdAbstract INNER JOIN
+                  detailabstrak AS d ON a.IdAbstrak = d.IdAbstrak</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TotalPayment" DataSetColumn="TotalPayment" />
+              <Mapping SourceColumn="accountNumber" DataSetColumn="accountNumber" />
+              <Mapping SourceColumn="dateConfirmation" DataSetColumn="dateConfirmation" />
+              <Mapping SourceColumn="nameSender" DataSetColumn="nameSender" />
+              <Mapping SourceColumn="title" DataSetColumn="title" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Abstrak" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Abstrak" msprop:Generator_UserDSName="Abstrak">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Abstrak" msprop:Generator_TableClassName="AbstrakDataTable" msprop:Generator_TableVarName="tableAbstrak" msprop:Generator_RowChangedName="AbstrakRowChanged" msprop:Generator_TablePropName="_Abstrak" msprop:Generator_RowDeletingName="AbstrakRowDeleting" msprop:Generator_RowChangingName="AbstrakRowChanging" msprop:Generator_RowEvHandlerName="AbstrakRowChangeEventHandler" msprop:Generator_RowDeletedName="AbstrakRowDeleted" msprop:Generator_RowClassName="AbstrakRow" msprop:Generator_UserTableName="Abstrak" msprop:Generator_RowEvArgName="AbstrakRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nameEvent" msprop:Generator_ColumnVarNameInTable="columnnameEvent" msprop:Generator_ColumnPropNameInRow="nameEvent" msprop:Generator_ColumnPropNameInTable="nameEventColumn" msprop:Generator_UserColumnName="nameEvent">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaUser" msprop:Generator_ColumnVarNameInTable="columnnamaUser" msprop:Generator_ColumnPropNameInRow="namaUser" msprop:Generator_ColumnPropNameInTable="namaUserColumn" msprop:Generator_UserColumnName="namaUser">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="title" msprop:Generator_ColumnVarNameInTable="columntitle" msprop:Generator_ColumnPropNameInRow="title" msprop:Generator_ColumnPropNameInTable="titleColumn" msprop:Generator_UserColumnName="title">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Fullpaper" msprop:Generator_TableClassName="FullpaperDataTable" msprop:Generator_TableVarName="tableFullpaper" msprop:Generator_RowChangedName="FullpaperRowChanged" msprop:Generator_TablePropName="Fullpaper" msprop:Generator_RowDeletingName="FullpaperRowDeleting" msprop:Generator_RowChangingName="FullpaperRowChanging" msprop:Generator_RowEvHandlerName="FullpaperRowChangeEventHandler" msprop:Generator_RowDeletedName="FullpaperRowDeleted" msprop:Generator_RowClassName="FullpaperRow" msprop:Generator_UserTableName="Fullpaper" msprop:Generator_RowEvArgName="FullpaperRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nameEvent" msprop:Generator_ColumnVarNameInTable="columnnameEvent" msprop:Generator_ColumnPropNameInRow="nameEvent" msprop:Generator_ColumnPropNameInTable="nameEventColumn" msprop:Generator_UserColumnName="nameEvent">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaUser" msprop:Generator_ColumnVarNameInTable="columnnamaUser" msprop:Generator_ColumnPropNameInRow="namaUser" msprop:Generator_ColumnPropNameInTable="namaUserColumn" msprop:Generator_UserColumnName="namaUser">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kodePaper" msprop:Generator_ColumnVarNameInTable="columnkodePaper" msprop:Generator_ColumnPropNameInRow="kodePaper" msprop:Generator_ColumnPropNameInTable="kodePaperColumn" msprop:Generator_UserColumnName="kodePaper" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="title" msprop:Generator_ColumnVarNameInTable="columntitle" msprop:Generator_ColumnPropNameInRow="title" msprop:Generator_ColumnPropNameInTable="titleColumn" msprop:Generator_UserColumnName="title">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="payment" msprop:Generator_TableClassName="paymentDataTable" msprop:Generator_TableVarName="tablepayment" msprop:Generator_RowChangedName="paymentRowChanged" msprop:Generator_TablePropName="payment" msprop:Generator_RowDeletingName="paymentRowDeleting" msprop:Generator_RowChangingName="paymentRowChanging" msprop:Generator_RowEvHandlerName="paymentRowChangeEventHandler" msprop:Generator_RowDeletedName="paymentRowDeleted" msprop:Generator_RowClassName="paymentRow" msprop:Generator_UserTableName="payment" msprop:Generator_RowEvArgName="paymentRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TotalPayment" msprop:Generator_ColumnVarNameInTable="columnTotalPayment" msprop:Generator_ColumnPropNameInRow="TotalPayment" msprop:Generator_ColumnPropNameInTable="TotalPaymentColumn" msprop:Generator_UserColumnName="TotalPayment" type="xs:int" />
+              <xs:element name="accountNumber" msprop:Generator_ColumnVarNameInTable="columnaccountNumber" msprop:Generator_ColumnPropNameInRow="accountNumber" msprop:Generator_ColumnPropNameInTable="accountNumberColumn" msprop:Generator_UserColumnName="accountNumber">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dateConfirmation" msprop:Generator_ColumnVarNameInTable="columndateConfirmation" msprop:Generator_ColumnPropNameInRow="dateConfirmation" msprop:Generator_ColumnPropNameInTable="dateConfirmationColumn" msprop:Generator_UserColumnName="dateConfirmation" type="xs:dateTime" />
+              <xs:element name="nameSender" msprop:Generator_ColumnVarNameInTable="columnnameSender" msprop:Generator_ColumnPropNameInRow="nameSender" msprop:Generator_ColumnPropNameInTable="nameSenderColumn" msprop:Generator_UserColumnName="nameSender">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="title" msprop:Generator_ColumnVarNameInTable="columntitle" msprop:Generator_ColumnPropNameInRow="title" msprop:Generator_ColumnPropNameInTable="titleColumn" msprop:Generator_UserColumnName="title">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

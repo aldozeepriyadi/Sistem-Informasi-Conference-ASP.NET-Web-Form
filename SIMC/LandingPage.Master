@@ -1,0 +1,179 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="LandingPage.master.cs" Inherits="SIMC.LandingPage" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Landing Page-Kelompok 1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description" />
+    <meta content="Coderthemes" name="author" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+    <!--Material Icon -->
+    <link rel="stylesheet" type="text/css" href="css/materialdesignicons.min.css" />
+
+    <!-- Custom  sCss -->
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+</head>
+
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="78">
+
+    <!--Navbar Start-->
+    <nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky-dark" id="sticky">
+        <div class="container-fluid">
+            <!-- LOGO -->
+            <a class="logo text-uppercase" href="index.html">
+                <img src="images/logo.png" alt="" class="logo-light" height="21" />
+                <img src="images/logo.png" alt="" class="logo-dark" height="21" />
+            </a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="mdi mdi-menu"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mx-auto navbar-center" id="mySidenav">
+                    <li class="nav-item">
+                        <a href="Home.aspx" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="Current.aspx" class="nav-link">Current</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="Archive.aspx" class="nav-link">Archives</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="AboutProceeding.aspx" class="nav-link">About the Proceeding</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a href="Search.aspx" class="nav-link">Search</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="Login.aspx" class="nav-link">Login</a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+    <!-- home start -->
+    <section class="bg-home bg-gradient" id="home">
+        <div class="home-center">
+            <div class="pagetitle">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            
+        </div>
+        <form id="form2" runat="server">
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+    </section>
+    <!-- home end -->
+
+
+
+
+
+    <!-- footer start -->
+    <footer class="bg-dark footer">
+        <div class="container-fluid">
+            <div class="row mb-5">
+                <div class="col-lg-4">
+                    <div class="pe-lg-4">
+                        <div class="mb-4">
+                            <img src="images/logo-light.png" alt="" height="20">
+                        </div>
+                        <p class="text-white-50">Kelompok 1</p>
+                        <p class="text-white-50 mb-4 mb-lg-0">ALDO,ADIT,NOVI,SONYA</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-md-6">
+                    <div class="footer-list">
+                        <p class="text-white mb-2 footer-list-title">About</p>
+                        <ul class="list-unstyled">
+                            <li><a href="#"><i class="mdi mdi-chevron-right me-2"></i>Home</a></li>
+                            <li><a href="#"><i class="mdi mdi-chevron-right me-2"></i>Features</a></li>
+                            <li><a href="#"><i class="mdi mdi-chevron-right me-2"></i>Faq</a></li>
+                            <li><a href="#"><i class="mdi mdi-chevron-right me-2"></i>Clients</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-7">
+                    <div class="footer-list">
+                        <p class="text-white mb-2 footer-list-title">
+                            Diterbitkan oleh</br><span>Lembaga Penelitian dan Pengabdian kepada Masyarakat
+
+                                Politeknik Astra Cikarang
+                                
+                                Jalan Damar Cibatu
+                                
+                                Cikarang Selatan
+                                
+                                Indonesia</span>
+                        </p>
+
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- end row -->
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="float-start pull-none">
+                        <p class="text-white-50">
+                            <script>document.write(new Date().getFullYear())</script>
+                            &copy;SIMC Design by <a href="https://coderthemes.com/" target="_blank" class="text-white-50">Kelompok 1</a>
+                        </p>
+                        <!-- <p class="text-white-50">2022 © SIMC <a href="https://coderthemes.com/" target="_blank" class="text-white-50">Kelompok 1</a> </p> -->
+                    </div>
+                    <div class="float-end pull-none">
+                        <ul class="list-inline social-links">
+                            <li class="list-inline-item text-white-50">Social :
+                            </li>
+                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-twitter"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="mdi mdi-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- end col -->
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- container-fluid -->
+    </footer>
+    <!-- footer end -->
+
+    <!-- Back to top -->
+    <!-- <a href="#" class="back-to-top" id="back-to-top"> <i class="mdi mdi-chevron-up"> </i> </a> -->
+    <!-- Back to top -->
+    <a href="#" onclick="topFunction()" class="back-to-top-btn btn btn-primary" id="back-to-top-btn"><i class="mdi mdi-chevron-up"></i></a>
+
+    <!-- javascript -->
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <!-- custom js -->
+    <script src="js/app.js"></script>
+</body>
+
+</html>
